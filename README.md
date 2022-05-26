@@ -2,7 +2,7 @@
 
 个人仓库：dain
 
-个人简历：[代家鑫](https://dain-xin.github.io/dain/DJX-BIO.html)
+个人简历：[代家鑫](https://dain-xin.github.io/dain/BIO/DJX-BIO.html)
 
 个人博客：
 
