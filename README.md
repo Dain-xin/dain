@@ -6,7 +6,7 @@
 
 个人博客：
 
-[DJX-博客-Hexo-Next](https://dain-xin.github.io/)
+[Dain博客地址1-Github](https://dain-xin.github.io/)
 
- [博客的GitHub下载](https://github.com/Dain-xin/blogs)
+[Dain博客地址2-Gitee](https://dainx.gitee.io/)
 
