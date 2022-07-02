@@ -1,1 +1,0 @@
-个人简历：[代家鑫](https://dain-xin.github.io/dain/BIO/DJX-BIO.html)
